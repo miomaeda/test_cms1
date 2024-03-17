@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: miomaeda/testcms1
+  repo: miomaeda/test_cms1
   branch: master
 
 media_folder: "static/img" # Folder where user uploaded files should go
