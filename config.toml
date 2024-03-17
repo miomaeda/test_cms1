@@ -4,7 +4,7 @@ title = 'TEST CMS1'
 theme = 'ananke'
 
 [[cms]]
-  path = "content/posts"
+  path = "content/post"
   date_field = "date"
   draft = false
   title = "title"
