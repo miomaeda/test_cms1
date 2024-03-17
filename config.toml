@@ -2,3 +2,9 @@ baseURL = 'https://testcms1.netlify.app'
 languageCode = 'en-us'
 title = 'TEST CMS1'
 theme = 'ananke'
+
+[[cms]]
+  path = "content/posts"
+  date_field = "date"
+  draft = false
+  title = "title"
